@@ -1,0 +1,5 @@
+tmp=/tmp
+s3=username:key:secret@bucket
+rsync=backup@my-private-host/var/backups
+files=(stuff:/var/www/stuff snuff:/var/www/snuff)
+mysql=(user:password@host/database user:password@host/another-database)
